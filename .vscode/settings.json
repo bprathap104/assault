@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/home/cloud_user/.local/share/virtualenvs/assault/bin/python",
+    "python.pythonPath": "/home/cloud_user/.local/share/virtualenvs/assault-KHzWwjwv/bin/python",
     "python.linting.enabled": true,
     "editor.formatOnSave": true,
     "python.formatting.provider": "black"
